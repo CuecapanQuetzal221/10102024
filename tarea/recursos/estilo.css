@@ -1,0 +1,75 @@
+body{
+    background: rgb(36,0,18);
+    background: linear-gradient(90deg, rgba(36,0,18,1) 0%, rgba(121,9,27,1) 35%, rgba(0,11,13,1) 100%);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 5em;
+}
+
+
+
+.fondoCarmesi{
+    background-color: rgb(184, 0, 0);
+}
+
+.fondoOcre{
+    background-color: rgb(44, 45, 48);
+}
+
+.fondoNegro{
+    background-color: black;
+    text-align: center;
+    color: aliceblue;
+    border-radius: 15px;
+    margin-top: 0px;
+    padding-top: 5px;
+}
+
+.fondoDegradado {
+    background: rgb(110,4,94);
+    background: linear-gradient(90deg, rgba(110,4,94,1) 0%, rgba(2,3,105,1) 35%, rgba(0,11,13,1) 100%);
+}
+
+.imagen{
+    width: 120px;
+}
+
+.texto1{
+    text-align: center;
+    font-size: 3em;
+    color: rgb(41, 5, 5);
+}
+
+.texto2{
+    font-size: 1em;
+    color: white;
+    background-color: rgb(253, 57, 73);
+    text-align: justify;
+}
+
+.separacion{
+    padding: 1em;
+}
+
+.texto3{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;  
+}
+
+.borde{
+    border: 10px solid rgb(131, 32, 32);
+    border-radius: 10px;
+}
+
+.bordeAzul{
+    border: 2px solid rgb(30, 31, 30);
+    border-radius: 5px;
+}
+
+.bordeAzul2{
+    border: 2px solid rgb(170, 29, 29);
+    border-radius: 5px;
+}
+
+li{
+    margin: 10px;
+}
